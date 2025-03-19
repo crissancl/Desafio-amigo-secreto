@@ -1,5 +1,7 @@
 # Desafío Amigo Secreto
 
+habia subido mal los archivos con rutas locales , pero si subi todo en tiempo solo que despues me di cuenta y estoy trabajando desde el cel ya que estoy en el hospital, asi que vuando me.di cuenta subi el zip otra vez pasadas las 12, espero sea considerado, mil gracias por todo.
+
 Este es un proyecto desarrollado en HTML, CSS y JavaScript para gestionar un juego de Amigo Secreto. Los participantes pueden ingresar sus nombres y el sistema asignará automáticamente los pares de amigos secretos.
 
 ## Características
