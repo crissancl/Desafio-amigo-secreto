@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let inputNombre = document.getElementById("nombre"); // ID corregido
     let botonAgregar = document.getElementById("agregar");
     let botonSortear = document.getElementById("sortear");
-    let botonReiniciar = document.getElementById("reiniciar"); // Botón ahora estará cerca del input
+    let botonReiniciar = document.getElementById("reiniciar"); // Corregido center boton
     let lista = document.getElementById("lista");
     let parejasLista = document.getElementById("parejas");
     let listaAmigos = [];
